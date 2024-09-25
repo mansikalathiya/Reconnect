@@ -1,11 +1,5 @@
 # Re.Connect
-## Deployed URLs
-
-## Deployed URLs
-
-### Production
-- **Webpage**: [http://csci5308-vm4.research.cs.dal.ca/#/login](http://csci5308-vm4.research.cs.dal.ca:8080/#/)
-- **Swagger**: [http://csci5308-vm4.research.cs.dal.ca:8080/swagger-ui/index.html](http://csci5308-vm4.research.cs.dal.ca:8080/swagger-ui/index.html)
+## Deployed URL
 
 ### Test
 - **Deployed frontend application**: [https://csci-5308-re-connect.netlify.app/#/login](https://csci-5308-re-connect.netlify.app)
